@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/gt1numdjf1556/gpd",
+  "repository": "https://github.com/gt1numdjf1556/gpd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
